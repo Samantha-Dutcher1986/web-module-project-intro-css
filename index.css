@@ -193,6 +193,10 @@ nav a {
 #plan div img {
   width: 60%;
 }
+.tentCampingImg {
+    background-repeat: no-repeat;
+    background-size 25%;
+}
 .bolded {
   font-weight: 900;
 }
